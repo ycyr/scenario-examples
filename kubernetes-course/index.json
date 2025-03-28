@@ -1,0 +1,27 @@
+{
+  "title": "Kubernetes Lab Yanick",
+  "description": "Use a simple one node Kubernetes cluster and let user list all pods + background",
+  "details": {
+    "intro": {
+      "title": "Intro",
+      "text": "intro/text.md",
+      "foreground": "intro/foreground.sh",
+      "background": "intro/background.sh"
+    },
+    "steps": [
+      {
+        "title": "List all pods",
+        "text": "step1/step1.md"
+      }
+    ],
+    "finish": {
+      "text": "finish/finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}
+
+
+
