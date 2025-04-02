@@ -1,6 +1,6 @@
 {
-  "title": "Foreground Background Scripts",
-  "description": "Execute code automatically in foreground and background",
+  "title": "Ansible Lab",
+  "description": "Ansible lab",
   "details": {
     "intro": {
       "text": "intro.md",
